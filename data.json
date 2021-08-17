@@ -1,0 +1,34 @@
+{
+    "people": [
+        {
+            "name": "Scott",
+            "website": "stackabuse.com",
+            "from": "Nebraska"
+        },
+        {
+            "name": "Larry",
+            "website": "google.com",
+            "from": "Michigan"
+        },
+        {
+            "name": "Tim",
+            "website": "apple.com",
+            "from": "Alabama"
+        }
+    ]
+}
+
+[
+    {
+        "model": "main.recipes3",
+        "pk": 1,
+        "fields": { "name": "test_name",
+            "time": "3",
+            "url": "test_url.com",
+            "image": "test_image",
+            "calories": "3",
+            "ingredients": [13766, 13767],
+            "genre": [1, 4]
+        }
+    }
+]
